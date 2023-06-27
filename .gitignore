@@ -1,0 +1,6 @@
+
+
+.quickapp/*
+!.quickapp/sign/
+./ide/*
+./quickapp/*
